@@ -43,7 +43,7 @@ python3 cute_snake.py
 # 在代码中修改这些参数：
 cell_size = 20    # 蛇蛇的胖瘦程度
 speed = 200       # 移动速度（建议150-300）
-turn_smoothness = 0.2  # 转弯Q弹度（1=僵硬，0=丝滑）
+turn_smoothness = 0.2  # 转弯Q弹度（0=丝滑，1=僵硬）
 body_spacing = 20 # 身体段间距（推荐15-25）
 ```
 
