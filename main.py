@@ -31,7 +31,7 @@ class Snake:
         self.body = []
         self.direction = pygame.Vector2(1, 0)
         self.next_direction = pygame.Vector2(1, 0)
-        self.length = 300
+        self.length = 3
         self.alive = True
     
     def update(self, delta_time):
